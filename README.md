@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Adel+Abdel+Aal;Software+Engineer;DevOps-Oriented+Engineer;AI-Based+Software+Development+Trainee" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Adel+Abdel+Aal;Software+Engineer;DevOps-Oriented+Engineer;AI-Based+Software+Development+Trainee" />
 </p>
 
 <p align="center">
@@ -9,11 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
-Software Engineer with a strong interest in **DevOps engineering** and hands-on experience in  
-**Docker, Kubernetes, and Jenkins**.  
-Currently enrolled in the **Digital Pioneers Initiative (DPI)** in the **AI-Based Software Development** track.
+I'm a **Software Engineer** with strong interests in **DevOps** and **AI-powered Software Development**.  
+Hands-on experience in **Docker, Kubernetes, Jenkins**, and CI/CD pipelines.  
+Currently sharpening my skills through the **Digital Pioneers Initiative (DPI)**.
 
-I focus on building reliable systems, automating workflows, and continuously improving my technical skills.
+I love automating workflows, building scalable systems, and learning new tech every day 🚀.
 
 ---
 
@@ -29,12 +29,10 @@ I focus on building reliable systems, automating workflows, and continuously imp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 
-  <!-- DevOps -->
+  <!-- DevOps & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
-
-  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
@@ -43,8 +41,8 @@ I focus on building reliable systems, automating workflows, and continuously imp
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -69,6 +67,7 @@ I focus on building reliable systems, automating workflows, and continuously imp
 
 ---
 
+### ✨ Animated Footer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0e75b6&height=120&section=footer"/>
 </p>
