@@ -71,7 +71,7 @@ I am an analytical and results-driven **DevOps Engineer** and **Cloud Platform S
 
 ## 🏆 Certifications
 * 🥇 **AWS Certified Developer &ndash; Associate** (Amazon Web Services)
-* 🥈 **AWS Certified Cloud Practitioner** (Amazon Web Services)
+* 🥈 **AWS Certified CloudOps Practitioner** (Amazon Web Services)
 * 🥉 **DevOps Engineer Certificate** (Information Technology Institute &mdash; Mahara-Tech)
 * 🎓 **Bootcamp DevOps (Infrastructure & Pipelines)** (KodeKloud)
 * 🎓 **Professional Front-End Developer** (Meta via Coursera)
