@@ -1,102 +1,240 @@
 <div align="center">
 
-# Mohamed Adel Abd-Elaal
+# 👋 Hi, I'm Mohamed Adel Abd-Elaal
 
-**DevOps & Cloud Engineer · Backend / Full-Stack Developer**
+### DevOps Engineer • Cloud Engineer • Backend Software Engineer
 
-Giza, Egypt
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=DevOps+Engineer;Cloud+Engineer;Backend+Developer;Infrastructure+as+Code;CI%2FCD+Automation;Kubernetes+%7C+Docker+%7C+AWS;Building+Reliable+Cloud-Native+Applications" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Kubernetes;Microservices+%C2%B7+Event-Driven+Systems;Automating+the+path+from+code+to+production" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=DevNetMohamed&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-adel-406532281) · [GitHub](https://github.com/DevNetMohamed) · [mohamedadelhareidy@gmail.com](mailto:mohamedadelhareidy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-adel-406532281)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DevNetMohamed)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:mohamedadelhareidy@gmail.com)
 
 </div>
 
-<br>
+---
 
-## About
+# 🚀 About Me
 
-DevOps and Cloud Engineer with a full-stack engineering background, focused on designing deployment pipelines, automating infrastructure, and building scalable cloud-native systems. Comfortable working across the stack — from application code to the infrastructure and CI/CD it runs on.
+I'm a **DevOps & Cloud Engineer** passionate about automating software delivery and building cloud-native infrastructure.
 
-- Currently enrolled in the **AI-Powered Software Development Program**, Digilians / NTI (Dec 2025 – present)
-- B.A., Asyut University (2019 – 2023)
-- Previously IT Specialist at British International College of Cairo
-- Available for freelance DevOps and full-stack engineering work
+I enjoy working on
 
-<br>
+☁️ Cloud Infrastructure
 
-## Technical Skills
+🐳 Docker
 
-| Category | Tools |
-|---|---|
-| **Cloud** | AWS (EC2, VPC, IAM, RDS, S3, Route 53, CloudWatch), Google Cloud (GKE, VPC, IAM), Azure |
-| **Infrastructure as Code** | Terraform, Ansible |
-| **Containers & Orchestration** | Docker, Kubernetes (EKS, GKE), Helm |
-| **CI/CD & GitOps** | Jenkins, GitHub Actions, Argo CD, Bitbucket Pipelines |
-| **Languages** | TypeScript, JavaScript, Python, Bash |
-| **Backend** | Node.js, NestJS, Express.js, RESTful APIs, Microservices |
-| **Messaging & Events** | Apache Kafka, RabbitMQ, Socket.io |
-| **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Observability** | Prometheus, Grafana, ELK Stack |
-| **Frontend** | React, Next.js, Tailwind CSS |
+☸ Kubernetes
 
-<br>
+⚙️ CI/CD
 
-## Certifications
+🏗 Infrastructure as Code
 
-- AWS Certified Cloud Practitioner (CLF-C02) — Amazon Web Services
-- DevOps Engineer Certificate — Mahara-Tech, Information Technology Institute
-- DevOps Bootcamp — KodeKloud
-- DevOps Bootcamp — Packt (Coursera)
-- Scaling Cloud-Native Applications — Linux Foundation
-- Professional Front-End Developer — Meta (Coursera)
-- Full Stack PHP Developer — Black Horse Courses
+📦 Microservices
 
-<br>
+📡 Event-Driven Systems
 
-## Selected Projects
+⚡ Automation
 
-**Hospital Management System**
-`NestJS · TypeScript · Apache Kafka · PostgreSQL · Docker · Kubernetes · Helm`
-Microservices-based system (API gateway, auth service, roles module) with TypeORM, soft deletes, and Kafka event publishing. Includes a full Helm chart deployed to a local Kubernetes cluster, with Kafka, Postgres, and Redis running in-cluster, and a self-hosted GitHub Actions CD pipeline.
+Currently building production-ready DevOps projects using AWS, Kubernetes, Terraform, Jenkins, GitHub Actions, Helm and ArgoCD.
 
-**EventFlow — Distributed Event-Driven Microservices**
-`NestJS · TypeScript · Apache Kafka · Drizzle ORM · PostgreSQL · Docker · Kubernetes`
-Event ticketing platform with Auth, Events, Tickets, and Notifications services communicating asynchronously over Kafka, containerized and structured for multi-environment deployment.
+---
 
-**Real-Time Chat Platform**
-`Node.js · TypeScript · RabbitMQ · Socket.io · MongoDB · Redis · Next.js`
-Monorepo with user, chat, message, and mail services communicating over RabbitMQ, with a real-time Next.js frontend. Chat and message services rebuilt with Zod validation and typed Redis helpers.
+# 💻 Tech Stack
 
-**Nexus Repository Manager Automation**
-`Ansible · Docker · Molecule · GitHub Actions`
-Production-grade Ansible role for automated Sonatype Nexus 3 deployment and configuration, tested with Molecule and validated in CI.
+## ☁️ Cloud
 
-**AWS Infrastructure as Code**
-`Terraform · AWS (VPC, EC2, ALB, ElastiCache, SES, Route 53, IAM)`
-Automated AWS infrastructure provisioning — networking, security groups, load balancers, and caching layers — using Infrastructure-as-Code principles.
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
+</p>
 
-**Jenkins CI/CD Pipeline for AWS**
-`Jenkins · Ansible · Terraform · AWS · Node.js`
-End-to-end pipeline deploying a Node.js app to a private EC2 instance, with Ansible handling configuration, Jenkins driving branch-based pipelines, and Terraform managing the load balancer.
+## ⚙️ DevOps
 
-**Full-Stack E-Commerce Platform**
-`Node.js · React · MongoDB · Docker Compose · GitHub Actions`
-E-commerce application with JWT authentication, role-based authorization, and order processing, deployed via automated CI/CD with Docker Hub integration.
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions,prometheus,grafana"/>
+</p>
 
-<br>
+## 💻 Backend
 
-## GitHub Activity
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,javascript"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
+</p>
+
+## Messaging
+
+Apache Kafka • RabbitMQ
+
+---
+
+# 🎯 Current Focus
+
+- Kubernetes Production Deployments
+- GitOps using ArgoCD
+- AWS Infrastructure Automation
+- High Availability Systems
+- Platform Engineering
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Hospital Management System
+
+Microservices architecture built with
+
+NestJS • Kafka • PostgreSQL • Docker • Kubernetes • Helm
+
+⭐ Features
+
+- API Gateway
+- Authentication
+- RBAC
+- Event-Driven Architecture
+- Helm Charts
+- Kubernetes Deployment
+- GitHub Actions CD
+
+---
+
+## 🎫 EventFlow
+
+Distributed Event-Driven Platform
+
+- Kafka
+- Microservices
+- Docker
+- Kubernetes
+- Drizzle ORM
+- PostgreSQL
+
+---
+
+## 💬 Real-Time Chat Platform
+
+Node.js
+
+RabbitMQ
+
+Socket.IO
+
+Redis
+
+Next.js
+
+MongoDB
+
+---
+
+## ☁️ AWS Infrastructure
+
+Terraform
+
+VPC
+
+EC2
+
+ALB
+
+Route53
+
+ElastiCache
+
+IAM
+
+SES
+
+---
+
+## ⚙ Jenkins CI/CD
+
+NodeJS Deployment
+
+Terraform
+
+Ansible
+
+Private EC2
+
+Branch Pipelines
+
+---
+
+# 🏆 Certifications
+
+🏅 AWS Cloud Practitioner
+
+🏅 Linux Foundation
+
+🏅 KodeKloud DevOps
+
+🏅 Mahara-Tech DevOps
+
+🏅 Meta Front-End
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevNetMohamed&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=DevNetMohamed&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNetMohamed&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevNetMohamed&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/DevNetMohamed/DevNetMohamed/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+# 🌍 Connect with Me
+
+<p align="center">
+
+<a href="mailto:mohamedadelhareidy@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/mohammed-adel-406532281">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/DevNetMohamed">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DevNetMohamed&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1f2328&icon_color=57606a&text_color=57606a" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNetMohamed&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=57606a" alt="Top Languages" width="48%" />
+
+### ⭐ "Automating the path from code to production."
+
 </div>
-
-<br>
-
-## Contact
-
-**Email:** [mohamedadelhareidy@gmail.com](mailto:mohamedadelhareidy@gmail.com)
-**LinkedIn:** [linkedin.com/in/mohammed-adel-406532281](https://www.linkedin.com/in/mohammed-adel-406532281)
-**GitHub:** [github.com/DevNetMohamed](https://github.com/DevNetMohamed)
