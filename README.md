@@ -18,7 +18,7 @@ Giza, Egypt
 
 DevOps and Cloud Engineer with a full-stack engineering background, focused on designing deployment pipelines, automating infrastructure, and building scalable cloud-native systems. Comfortable working across the stack — from application code to the infrastructure and CI/CD it runs on.
 
-- Currently enrolled in the **AI-Powered Software Development Program**, Digilians / NTI (Dec 2025 – present)
+- Currently enrolled in the **AI-Powered Software Development Program**, Digilians / NTI (Dec 2025 – SeP 2026)
 - B.A., Asyut University (2019 – 2023)
 - Previously IT Specialist at British International College of Cairo
 - Available for freelance DevOps and full-stack engineering work
